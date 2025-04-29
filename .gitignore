@@ -1,0 +1,17 @@
+
+__pycache__/
+*.pyc
+*.pyo
+
+.venv/
+venv/
+sportbuddy-venv/
+
+
+.env
+*.sqlite3
+settings_local.py
+
+.vscode/
+
+secrets.txt
